@@ -51,6 +51,9 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
+# User data
+users.txt
+
 # Temporary files
 *.tmp
 *.log
